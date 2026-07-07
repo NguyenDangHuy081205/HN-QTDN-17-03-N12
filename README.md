@@ -230,7 +230,7 @@ Việc quản lý lịch đặt phòng theo danh sách giúp người dùng dễ
 ### c. Phân quyền sử dụng phòng họp
 
 <p align="center">
-    <img src="images/phanquyen.jpg" alt="Phân quyền phòng họp" width="800"/>
+    <img src="images/phanquyen.png" alt="Phân quyền phòng họp" width="800"/>
 </p>
 
 **Mô tả chức năng**
