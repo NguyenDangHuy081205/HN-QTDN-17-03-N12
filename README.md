@@ -22,7 +22,7 @@
 ## 📖 1. HỆ THỐNG QUẢN LÝ TÀI SẢN + PHÒNG HỌP
 [![Odoo](https://img.shields.io/badge/Odoo-15.0-875A7B?style=flat&logo=odoo&logoColor=white)](https://www.odoo.com)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13+-316192?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-10+-316192?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com)
 
 Hệ thống Quản lý tài sản và phòng họp trên nền tảng ERP Odoo được xây dựng nhằm hỗ trợ doanh nghiệp quản lý tập trung tài sản và hoạt động sử dụng phòng họp thông qua một hệ thống thống nhất. Đề tài được phát triển trên nền tảng mã nguồn mở Odoo ERP, giúp sinh viên tiếp cận mô hình quản trị doanh nghiệp hiện đại, đồng thời rèn luyện kỹ năng phân tích yêu cầu, thiết kế cơ sở dữ liệu, xây dựng module nghiệp vụ và triển khai hệ thống ERP.
