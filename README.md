@@ -116,7 +116,7 @@ Module **Quản lý nhân sự** được xây dựng nhằm hỗ trợ doanh ng
 ### a. Quản lý nhân viên
 
 <p align="center">
-    <img src="images/quanlynhansu.jpg" alt="Quản lý nhân sự" width="800"/>
+    <img src="images/nhanvien.jpg" alt="Quản lý nhân sự" width="800"/>
 </p>
 
 **Mô tả chức năng**
