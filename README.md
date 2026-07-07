@@ -116,7 +116,7 @@ Module **Quản lý nhân sự** được xây dựng nhằm hỗ trợ doanh ng
 ### a. Quản lý nhân viên
 
 <p align="center">
-    <img src="images/quanlynhansu.jpg" alt="Quản lý nhân sự" width="800"/>
+    <img src="images/nhanvien.jpg" alt="Quản lý nhân sự" width="800"/>
 </p>
 
 **Mô tả chức năng**
@@ -172,7 +172,7 @@ Giao diện hỗ trợ tìm kiếm và lọc dữ liệu theo nhân viên hoặc
 Module **Quản lý tài sản** hỗ trợ doanh nghiệp quản lý toàn bộ tài sản từ khâu lưu trữ thông tin, theo dõi tình trạng sử dụng đến việc thống kê và đánh giá hiệu quả khai thác tài sản.
 
 <p align="center">
-    <img src="images/quanlytaisan.jpg" alt="Dashboard tài sản" width="800"/>
+    <img src="images/dashbod.jpg" alt="Dashboard tài sản" width="800"/>
 </p>
 
 **Mô tả chức năng**
