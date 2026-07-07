@@ -279,7 +279,7 @@ This project is developed for educational purposes. All rights reserved.
 ## 🖼️ Poster dự án
 
 <p align="center">
-    <img src="images/poster.png" alt="Poster" width="800"/>
+    <img src="images/poster.png" alt="poster" width="800"/>
 </p>
 
 Poster được xây dựng nhằm giới thiệu tổng quan về đề tài **Hệ thống Quản lý tài sản và Phòng họp trên nền tảng ERP Odoo 15**. Nội dung poster được bố trí khoa học, trình bày đầy đủ các nội dung quan trọng của dự án, giúp người xem nhanh chóng nắm bắt mục tiêu, giải pháp và quá trình triển khai hệ thống.
