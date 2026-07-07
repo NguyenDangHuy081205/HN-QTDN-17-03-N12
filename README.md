@@ -149,24 +149,6 @@ Giao diện đơn giản, khoa học và dễ theo dõi. Việc sử dụng mã 
 
 ---
 
-### c. Quản lý lịch sử công tác
-
-<p align="center">
-    <img src="images/lichsucongtac.jpg" alt="Lịch sử công tác" width="800"/>
-</p>
-
-**Mô tả chức năng**
-
-Chức năng lịch sử công tác ghi nhận toàn bộ quá trình làm việc của từng nhân viên. Hệ thống lưu các thông tin như nhân viên, phòng ban, chức vụ, thời gian bắt đầu và thời gian kết thúc của từng giai đoạn công tác.
-
-Thông qua chức năng này, người quản trị có thể theo dõi quá trình điều chuyển nhân sự, bổ nhiệm hoặc thay đổi chức vụ theo từng thời điểm.
-
-**Nhận xét**
-
-Giao diện hỗ trợ tìm kiếm và lọc dữ liệu theo nhân viên hoặc phòng ban, giúp việc tra cứu trở nên nhanh chóng. Việc lưu trữ lịch sử công tác giúp doanh nghiệp quản lý đầy đủ quá trình làm việc của nhân viên, đồng thời phục vụ công tác thống kê và đánh giá nhân sự.
-
----
-
 # 5.2. Module Quản lý tài sản
 
 Module **Quản lý tài sản** hỗ trợ doanh nghiệp quản lý toàn bộ tài sản từ khâu lưu trữ thông tin, theo dõi tình trạng sử dụng đến việc thống kê và đánh giá hiệu quả khai thác tài sản.
@@ -230,7 +212,7 @@ Việc quản lý lịch đặt phòng theo danh sách giúp người dùng dễ
 ### c. Phân quyền sử dụng phòng họp
 
 <p align="center">
-    <img src="images/phanquyen.png" alt="Phân quyền phòng họp" width="800"/>
+    <img src="images/phanquyen.jpg" alt="Phân quyền phòng họp" width="800"/>
 </p>
 
 **Mô tả chức năng**
